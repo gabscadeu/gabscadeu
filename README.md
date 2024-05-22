@@ -1,8 +1,6 @@
 ### Boas vindas ao meu perfil 💗
 
-### Boas vindas ao meu perfil :blue_heart
-
-Meu nome é Marcelo Paludetto
+Meu nome é Gabriella Doricci Cadeu
 
 - Estou estudando na  [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
